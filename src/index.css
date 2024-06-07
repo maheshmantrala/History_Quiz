@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+body{
+  height: 100vh;
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6ZMEyDdDSR3AYFYwRMISb8NeMRDpLWnzHQ&s");
+    font-family: poppins;
+}
